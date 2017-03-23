@@ -74,9 +74,9 @@ Esperamos que você faça tudo em até duas semanas, se você não conseguir faz
 
 Você tem duas opções:  
 
-1) Você pode fazer um _pull request_ no nosso [repositório __público__](https://github.com/Moobie/desafio-mobile). Note que seu *fork* ficará público para qualquer pessoa ver.
+1) Você pode fazer um _pull request_ no nosso [repositório __público__](https://github.com/Moobie/desafio-app). Note que seu *fork* ficará público para qualquer pessoa ver.
 
-2) Caso você prefira um pouco de privacidade, crie um repositório com o nome **desafio-mobile** na sua conta do GitHub, Bitbucket ou GitLab, inclua os usuários abaixo como colaboradores (acesso de leitura) e nos envie um email avisando.
+2) Caso você prefira um pouco de privacidade, crie um repositório com o nome **desafio-app** na sua conta do GitHub, Bitbucket ou GitLab, inclua os usuários abaixo como colaboradores (acesso de leitura) e nos envie um email avisando.
 
 | Plataforma | Email | Usuário |
 | -- | -- | -- |
