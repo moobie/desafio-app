@@ -82,6 +82,5 @@ Você tem duas opções:
 | -- | -- | -- |
 | iOS | francesco@moobie.com.br | fpg1503 |
 | Android | danilo@moobie.com.br | danmalafaia |
-| Android | hp@moobie.com.br | eduardolal86  |
 
 **Divirta-se e aprenda algo novo!**
