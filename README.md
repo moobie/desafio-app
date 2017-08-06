@@ -15,8 +15,8 @@ O app abre com uma lista de carros salvos, há a opção de ver detalhes do carr
 
 ## iOS
 * É esperado que o projeto compile sem erros / warnings na versão atual do Xcode na App Store.
-* O projeto deve ser escrito em Swift 3.
-* O projeto deve suportar iOS 9 e será testado na versão mais recente do iOS.
+* O projeto deve ser escrito em Swift 3 ou Swift 4
+* O projeto deve suportar iOS 9 e será testado na versão mais recente do iOS (disponível para o público geral).
 * É permitido o uso de bibliotecas externas, assim como gerenciadores de dependências. Elas podem ser escritas em qualquer linguagem.
 * As telas devem ser feitas com Auto Layout e não podem apresentar logs de erro no console.
 * Provavelmente faremos perguntas sobre o seu código, não saia colando tudo do Stack Overflow :)
