@@ -78,9 +78,9 @@ Você tem duas opções:
 
 2) Caso você prefira um pouco de privacidade, crie um repositório com o nome **desafio-app** na sua conta do GitHub, Bitbucket ou GitLab, inclua os usuários abaixo como colaboradores (acesso de leitura) e nos envie um email avisando.
 
-| Plataforma | Email | Usuário |
-| -- | -- | -- |
-| iOS | francesco@moobie.com.br | fpg1503 |
-| Android | danilo@moobie.com.br | danmalafaia |
+| Plataforma | Nome | Email | Usuário |
+| -- | -- | -- | -- |
+| iOS | Francesco | francesco@moobie.com.br | fpg1503 |
+| Android | Leonardo | leo@moobie.com.br | leonardo2204 |
 
 **Divirta-se e aprenda algo novo!**
